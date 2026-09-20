@@ -40,8 +40,8 @@ Four classification approaches were developed and compared:
 
 - Decision Tree
 - Support Vector Machine (SVM)
-- Multi-Layer Perceptron (MLP)
-- One-Dimensional Convolutional Neural Network (1D-CNN)
+- Neural Network (Multi-Layer Perceptron / MLP)
+- Convolutional Neural Network (CNN)
 
 The complete preoprocessing, model training, and evaluation workflow is available in `Plant Classification.ipynb`.
 
@@ -85,5 +85,5 @@ The project demonstrate that spectral sensor measurements combined with machine 
 
 - Decision Tree
 - Support Vector Machine
-- Multi-Layer Perception
-- 1D Convolutional Nerual Network
+- Nerual Network (Multi-Layer Perception)
+- Convolutional Nerual Network
